@@ -1,4 +1,4 @@
-# Install script for directory: /home/joao/Desktop/FEUP/AEDA/tokyo2020
+# Install script for directory: /home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/joao/Desktop/FEUP/AEDA/tokyo2020/build-dir/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/build-dir/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

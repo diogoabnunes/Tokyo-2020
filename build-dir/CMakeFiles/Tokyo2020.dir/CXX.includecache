@@ -6,19 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Atleta.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Atleta.cpp
+Atleta.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Atleta.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Atleta.h
 Pessoa.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Pessoa.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Pessoa.h
 iostream
 -
 vector
 -
 
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Comitiva.cpp
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Comitiva.cpp
 Comitiva.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Comitiva.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Comitiva.h
 
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Comitiva.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Comitiva.h
 vector
 -
 queue
@@ -32,47 +36,141 @@ fstream
 algorithm
 -
 Pessoa.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Pessoa.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Pessoa.h
 Atleta.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Atleta.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Atleta.h
 Staff.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Staff.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Staff.h
 Data.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Data.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Data.h
 Exception.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Exception.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Exception.h
 
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Data.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Data.cpp
+Data.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Data.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Data.h
 iostream
 -
 string
 -
 
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Exception.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Exception.cpp
+Exception.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Exception.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Exception.h
 string
 -
 iostream
 -
 
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Pessoa.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Medalhas.cpp
+Medalhas.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Medalhas.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Medalhas.h
+iostream
+-
+iomanip
+-
+fstream
+-
+vector
+-
+utils.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/utils.h
+Exception.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Exception.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Pessoa.cpp
+Pessoa.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Pessoa.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Pessoa.h
 iostream
 -
 string
 -
 Data.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Data.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Data.h
 utils.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/utils.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/utils.h
 
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Staff.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Records.cpp
+Records.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Records.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Records.h
+bst.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/bst.h
+algorithm
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/algorithm
+fstream
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/fstream
+iostream
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/iostream
+Atleta.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Atleta.h
+Exception.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Exception.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Staff.cpp
+Staff.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Staff.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Staff.h
 iostream
 -
 unordered_set
 -
 Pessoa.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Pessoa.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Pessoa.h
 
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/utils.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/bst.h
+iostream
+-
+stack
+-
+queue
+-
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/main.cpp
+iostream
+-
+Comitiva.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Comitiva.h
+Medalhas.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Medalhas.h
+Records.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Records.h
+menu.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/menu.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/menu.cpp
+menu.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/menu.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/menu.h
+iostream
+-
+Comitiva.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Comitiva.h
+utils.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/utils.h
+Exception.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Exception.h
+Medalhas.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Medalhas.h
+Records.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Records.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/utils.cpp
+utils.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/utils.h
+
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/utils.h
 vector
 -
 string
@@ -80,5 +178,5 @@ string
 algorithm
 -
 Pessoa.h
-/home/joao/Desktop/FEUP/AEDA/tokyo2020/Pessoa.h
+/home/joao/Desktop/FEUP/Anteriores/2º ano/1º semestre/Tokyo 2020/Pessoa.h
 
