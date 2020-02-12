@@ -1,5 +1,5 @@
 # Tokyo-2020
-Final Project of the subject of Algorithms and Data Structures @FEUP 2019/2020 (2019/2), with my classmates @diogoabnunes and @FabioMiguel2000
+Final Project of the subject of Algorithms and Data Structures @FEUP 2019/2020 (2019/2), with my classmates [Diogo](https://github.com/diogoabnunes) and [Fábio](https://github.com/FabioMiguel2000)
 
 Project Grade: 
 
