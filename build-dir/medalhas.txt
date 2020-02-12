@@ -1,0 +1,5 @@
+Portugal - 10, 5, 6
+Espanha - 10, 20, 30
+Franca - 20, 40, 30
+Brasil - 100, 200, 200
+EUA - 46, 0, 0

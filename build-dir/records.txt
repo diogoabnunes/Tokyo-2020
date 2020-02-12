@@ -1,0 +1,67 @@
+Tempo - Atletismo - 10000m F - 29.17.45 - Almaz Ayana - 12/8/2016 - Rio de Janeiro
+Tempo - Atletismo - 10000m M - 26.17.53 - Kenenisa Bekele - 26/8/2005 - Bruxelas
+Tempo - Atletismo - 100m F - 10.49 - Florence Joyner - 16/7/1988 - Indianapolis
+Tempo - Atletismo - 100m M - 9.58 - Usain Bolt - 16/8/2009 - Berlim
+Tempo - Atletismo - 1500m F - 3.50.07 - Genzebe Dibaba - 17/7/2015 - Monte Carlo
+Tempo - Atletismo - 1500m M - 3.26.00 - Hicham El Guerrouj - 14/7/1995 - Roma
+Tempo - Atletismo - 200m F - 21.34 - Florence Joyner - 29/9/1988 - Seoul
+Tempo - Atletismo - 200m M - 19.19 - Usain Bolt - 20/8/2009 - Berlim
+Tempo - Atletismo - 20Km Marcha F - 1.24.38.00 - Liu Hong - 6/6/2015 - Corunha
+Tempo - Atletismo - 20Km Marcha M - 1.16.36.00 - Yusuke Suzuki - 15/3/2015 - Nomi
+Tempo - Atletismo - 400m F - 47.60 - Marita Koch - 6/10/1985 - Camberra
+Tempo - Atletismo - 400m M - 43.03 - Wayde van Niekerk - 14/8/2016 - Rio de Janeiro
+Tempo - Atletismo - 5000m F - 14.11.15 - Tirunesh Dibaba - 6/6/2008 - Oslo
+Tempo - Atletismo - 5000m M - 12.37.35 - Kenenisa Bekele - 31/5/2004 - Hengelo
+Tempo - Atletismo - 50Km Marcha F - 3.59.15.00 - Liu Hong - 9/3/2019 - Huangshan
+Tempo - Atletismo - 50Km Marcha M - 3.32.33.00 - Yohann Diniz - 15/8/2014 - Zurique
+Tempo - Atletismo - 800m F - 1.53.28 - Jarmila Kratochvilova - 26/7/1983 - Munique
+Tempo - Atletismo - 800m M - 1.40.91 - David Rudisha - 9/8/2012 - Londres
+Tempo - Atletismo - Maratona F - 2.14.04.00 - Brigid Kosgei - 13/9/2019 - Chicago
+Tempo - Atletismo - Maratona M - 1.59.40.00 - Eliud Kipchoge - 12/10/2019 - Viena
+Distancia - Atletismo - Salto com vara F - 5.06 - Yelena Isinbayeva - 28/8/2009 - Zurique
+Distancia - Atletismo - Salto com vara M - 6.16 - Renaud Lavillenie - 15/2/2014 - Donetsk
+Distancia - Atletismo - Salto em altura F - 2.09 - Stefka Kostadinova - 30/8/1987 - Roma
+Distancia - Atletismo - Salto em altura M - 2.45 - Javier Sottomayor - 27/7/1993 - Salamanca
+Distancia - Atletismo - Salto em comprimento F - 7.52 - Galina Chistyakova - 11/6/1988 - Leningrado
+Distancia - Atletismo - Salto em comprimento M - 8.95 - Mike Powell - 30/8/1991 - Toquio
+Distancia - Atletismo - Triplo salto F - 15.50 - Inessa Kravets - 10/8/1995 - Gotemburgo
+Distancia - Atletismo - Triplo salto M - 18.29 - Jonathan Edwards - 8/9/1995 - Gotenburgo
+Pontos - Ginastica - Ginastica artistica F - 106 - Simone Biles - 26/12/2019 - Ginasio artistico
+Pontos - Ginastica - Ginastica ritmica F - 105 - Simone Biles - 27/12/2019 - Ginasio ritmico
+Pontos - Ginastica - Trampolim F - 110 - Simone Biles - 23/12/2019 - Ginasio com trampolins
+Tempo - Natacao - 100m Brucos F - 1.04.13 - Lilly King - 25/7/2017 - Budapeste
+Tempo - Natacao - 100m Brucos M - 56.88 - Adam Peaty - 21/7/2019 - Gwangju
+Tempo - Natacao - 100m Costas F - 57.57 - Regan Smith - 28/7/2019 - Gwangju
+Tempo - Natacao - 100m Costas M - 51.85 - Ryan Murphy - 13/8/2016 - Rio de Janeiro
+Tempo - Natacao - 100m Livres F - 21.71 - Sarah Sjostrom - 23/7/2017 - Budapeste
+Tempo - Natacao - 100m Livres M - 46.91 - Cesar Cielo - 30/7/2009 - Roma
+Tempo - Natacao - 100m Mariposa F - 55.48 - Sarah Sjostrom - 7/8/2016 - Rio de Janeiro
+Tempo - Natacao - 100m Mariposa M - 49.50 - Caeleb Dressel - 26/7/2019 - Gwangju
+Tempo - Natacao - 1500m Livres F - 15.20.48 - Katie Ledecky - 16/5/2018 - Indianapolis
+Tempo - Natacao - 1500m Livres M - 14.31.02 - Sun Yang - 28/7/2012 - Londres
+Tempo - Natacao - 200m Brucos F - 2.19.11 - Rikke Pedersen - 1/8/2013 - Barcelona
+Tempo - Natacao - 200m Brucos M - 2.06.12 - Anton Chupkov - 26/7/2019 - Gwangju
+Tempo - Natacao - 200m Costas F - 2.03.35 - Regan Smith - 26/7/2019 - Gwangju
+Tempo - Natacao - 200m Costas M - 1.51.92 - Aaron Peirsol - 31/7/2009 - Roma
+Tempo - Natacao - 200m Estilos F - 2.06.12 - Katinka Hosszu - 3/8/2015 - Kazan
+Tempo - Natacao - 200m Estilos M - 1.54.00 - Ryan Lochte - 28/7/2011 - Shanghai
+Tempo - Natacao - 200m Livres F - 1.52.98 - Federica Pellegrini - 29/7/2009 - Roma
+Tempo - Natacao - 200m Livres M - 1.42.00 - Paul Biedermann - 28/7/2009 - Roma
+Tempo - Natacao - 200m Mariposa F - 2.01.81 - Liu Zige - 21/10/2009 - Jinan
+Tempo - Natacao - 200m Mariposa M - 1.50.73 - Kristof Milak - 24/7/2019 - Gwangju
+Tempo - Natacao - 400m Estilos F - 4.26.36 - Katinka Hosszu - 6/8/2016 - Rio de Janeiro
+Tempo - Natacao - 400m Estilos M - 4.03.84 - Michael Phelps - 10/8/2008 - Pequim
+Tempo - Natacao - 400m Livres F - 3.56.46 - Katie Ledecky - 7/8/2016 - Rio de Janeiro
+Tempo - Natacao - 400m Livres M - 3.40.07 - Paul Biedermann - 26/7/2009 - Roma
+Tempo - Natacao - 50m Brucos F - 29.40 - Lilly King - 30/7/2017 - Budapeste
+Tempo - Natacao - 50m Brucos M - 25.95 - Adam Peaty - 25/7/2017 - Budapeste
+Tempo - Natacao - 50m Costas F - 26.98 - Liu Xiang - 21/8/2018 - Jacarta
+Tempo - Natacao - 50m Costas M - 24.00 - Kliment Kolesnikov - 4/8/2018 - Glasgow
+Tempo - Natacao - 50m Livres F - 23.67 - Sarah Sjostrom - 29/7/2017 - Budapeste
+Tempo - Natacao - 50m Livres M - 20.91 - Cesar Cielo - 18/12/2009 - Sao Paulo
+Tempo - Natacao - 50m Mariposa F - 24.43 - Sarah Sjostrom - 5/7/2014 - Boras
+Tempo - Natacao - 50m Mariposa M - 22.27 - Andriy Govorov - 1/7/2018 - Roma
+Tempo - Natacao - 800m Livres F - 8.04.79 - Katie Ledecky - 12/8/2016 - Rio de Janeiro
+Tempo - Natacao - 800m Livres M - 7.32.12 - Lin Zhang - 29/7/2009 - Roma
+Pontos - Natacao - Natacao artistica F - 90 - EUA - 29/12/2019 - Piscina
+Pontos - Natacao - Saltos M - 92 - EUA - 28/12/2019 - Piscina de saltos

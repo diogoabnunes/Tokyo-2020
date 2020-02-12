@@ -1,0 +1,52 @@
+Atleta - Diogo Nunes - 10/3/2000 - 14648193 - M - 1/6/2020 - 30/8/2020 - Natacao - 64.5 - 177.5 - 23000 - 1500m Livres, 5Km
+Staff - Jose Borges - 9/8/1962 - 23162316 - M - 10/6/2020 - 20/8/2020 - Treinador - 3 - Treino
+Atleta - Alexis Santos - 23/3/1992 - 92 - M - 24/7/2020 - 9/8/2020 - Natacao - 70 - 185 - 8 - 200m Estilos, 400m Estilos
+Staff - Carlos Cruchinho - 23/3/1992 - 992 - M - 24/7/2020 - 9/8/2020 - Treinador - 2 - Enfermagem
+Atleta - Ana Cabecinha - 29/4/1984 - 84 - F - 23/7/2020 - 30/7/2020 - Atletismo - 48 - 164 - 16 - 20Km Marcha
+Staff - Paulo Murta - 29/4/1984 - 984 - M - 23/7/2020 - 30/7/2020 - Treinador - 2 - Enfermagem
+Atleta - Ana Catarina Monteiro - 14/8/1993 - 93 - F - 20/7/2020 - 25/7/2020 - Natacao - 58 - 164 - 6 - 200m Mariposa
+Staff - Fabio Pereira - 14/8/1993 - 993 - M - 20/7/2020 - 25/7/2020 - Treinador - 6 - Medicina
+Atleta - Anri Egutidze - 1/3/1996 - 96 - M - 22/7/2020 - 29/7/2020 - Judo - 77 - 173 - 30 - -81Kg
+Staff - Pedro Soares - 1/3/1996 - 996 - M - 22/7/2020 - 29/7/2020 - Treinador - 4 - Treino
+Atleta - Beatriz Martins - 15/5/1994 - 94 - F - 21/7/2020 - 8/8/2020 - Ginastica - 55 - 175 - 20 - Trampolim
+Staff - Luis Nunes - 15/5/1994 - 994 - M - 21/7/2020 - 8/8/2020 - Treinador - 10 - Medicina
+Atleta - David Varela - 16/11/1993 - 932 - M - 23/7/2020 - 1/8/2020 - Canoagem - 84 - 183 - 30 - K4 500m
+Staff - Rui Fernandes - 16/11/1993 - 9932 - M - 23/7/2020 - 8/8/2020 - Treinador - 4 - Massagem
+Atleta - Diana Duraes - 8/6/1996 - 962 - F - 18/7/2020 - 7/8/2020 - Natacao - 62 - 170 - 7 - 400m Livres
+Staff - Mario Madeira - 8/6/1996 - 9962 - M - 21/7/2020 - 7/8/2020 - Treinador - 3 - Massagem
+Atleta - Diogo Abreu - 5/9/1993 - 933 - M - 15/7/2020 - 7/8/2020 - Ginastica - 73 - 183 - 15 - Trampolim
+Staff - Tiago Duarte - 5/9/1993 - 9933 - M - 15/7/2020 - 7/8/2020 - Treinador - 3 - Treino
+Atleta - Diogo Ganchinho - 12/9/1987 - 87 - M - 14/7/2020 - 6/8/2020 - Ginastica - 61 - 167 - 10 - Trampolim
+Staff - Luis Santos - 12/9/1987 - 987 - M - 15/7/2020 - 6/8/2020 - Treinador - 7 - Medicina
+Atleta - Dulce Felix - 23/10/1982 - 82 - F - 14/7/2020 - 8/8/2020 - Atletismo - 52 - 165 - 10 - Maratona
+Staff - Maria Araujo - 23/10/1982 - 982 - F - 14/7/2020 - 8/8/2020 - Treinador - 2 - Enfermagem
+Atleta - Emanuel Silva - 8/12/1985 - 85 - M - 20/7/2020 - 20/8/2020 - Canoagem - 87 - 185 - 5 - K2 1000m, K4 1000m
+Staff - Helio Lucas - 8/12/1985 - 985 - M - 20/7/2020 - 20/8/2020 - Treinador - 4 - Treino
+Atleta - Fernando Pimenta - 13/8/1989 - 89 - M - 15/7/2020 - 15/8/2020 - Canoagem - 82 - 178 - 1 - K2 1000m, K4 1000m
+Atleta - Francisco Belo - 27/3/1991 - 91 - M - 20/7/2020 - 20/8/2020 - Atletismo - 125 - 193 - 30 - Lancamento do Peso
+Staff - Walentina Fedjuschina - 27/3/1991 - 991 - F - 15/7/2020 - 15/8/2020 - Treinador - 2 - Enfermagem
+Atleta - Gabriel Lopes - 15/5/1997 - 97 - M - 10/7/2020 - 10/8/2020 - Natacao - 80 - 188 - 25 - 200m Estilos
+Staff - Vitor Ferreira - 15/5/1997 - 997 - M - 10/7/2020 - 10/8/2020 - Treinador - 2 - Alongamento
+Atleta - Ines Henriques - 1/5/1980 - 80 - F - 15/7/2020 - 30/7/2020 - Atletismo - 46 - 158 - 3 - 20Km Marcha
+Staff - Jorge Miguel - 1/5/1980 - 980 - M - 15/7/2020 - 30/7/2020 - Treinador - 1 - Alongamento
+Atleta - Joao Costa - 28/10/1964 - 64 - M - 20/7/2020 - 9/8/2020 - Tiro - 102 - 182 - 8 - Pistola Ar Comprimido 10m
+Staff - Domingos Rodrigues - 28/10/1964 - 964 - M - 20/7/2020 - 9/8/2020 - Treinador - 1 - Alongamento
+Atleta - Joao Monteiro - 29/8/1983 - 83 - M - 15/7/2020 - 28/7/2020 - Tenis de Mesa - 73 - 180 - 5 - Equipas
+Staff - Francisco Santos - 29/8/1983 - 983 - M - 15/7/2020 - 28/7/2020 - Treinador - 15 - Medicina
+Atleta - Jorge Fonseca - 30/10/1992 - 922 - M - 20/7/2020 - 20/8/2020 - Judo - 100 - 174 - 4 - -100Kg
+Atleta - Marcos Freitas - 8/4/1988 - 88 - M - 20/7/2020 - 30/7/2020 - Tenis de Mesa - 75 - 181 - 5 - Singulares, Equipas
+Staff - Peter Franz - 8/4/1988 - 988 - M - 15/7/2020 - 30/7/2020 - Treinador - 8 - Treino
+Atleta - Nelson Evora - 20/4/1984 - 842 - M - 20/7/2020 - 9/8/2020 - Atletismo - 74 - 183 - 2 - Triplo Salto
+Staff - Ivan Pedroso - 20/4/1984 - 9842 - M - 20/7/2020 - 9/8/2020 - Treinador - 7 - Treino
+Atleta - Patricia Mamona - 21/11/1988 - 883 - F - 20/7/2020 - 30/7/2020 - Atletismo - 61 - 166 - 5 - Triplo Salto
+Staff - Jose Uva - 21/11/1988 - 9883 - M - 20/7/2020 - 30/7/2020 - Treinador - 12 - Alongamento
+Atleta - Nelson Oliveira - 6/3/1989 - 892 - M - 17/7/2020 - 7/8/2020 - Ciclismo - 66 - 180 - 8 - Prova de Estrada, Contra-Relogio
+Staff - Gabriel Mendes - 6/3/1989 - 9892 - M - 20/7/2020 - 7/8/2020 - Treinador - 1 - Alongamento
+Atleta - Fu Yu - 29/11/1978 - 78 - F - 20/7/2020 - 30/7/2020 - Tenis de Mesa - 59 - 173 - 4 - Singulares
+Staff - Antonio Fernandes - 29/11/1978 - 978 - M - 20/7/2020 - 30/7/2020 - Treinador - 9 - Treino
+Atleta - Telma Monteiro - 27/12/1985 - 852 - F - 19/7/2020 - 8/8/2020 - Judo - 57 - 163 - 2 - -57Kg
+Staff - Jorge Goncalves - 27/12/1985 - 9852 - M - 19/7/2020 - 30/7/2020 - Treinador - 4 - Treino
+Atleta - Teresa Portela - 30/10/1987 - 872 - F - 20/7/2020 - 20/8/2020 - Canoagem - 63 - 162 - 5 - K1 200m, K4 500m
+Atleta - Tiago Apolonia - 28/7/1986 - 86 - M - 22/7/2020 - 8/8/2020 - Tenis de Mesa - 76 - 186 - 10 - Singulares, Equipas
+Atleta - Ines Martins - 4/5/2001 - 123 - F - 20/7/2020 - 31/8/2020 - Pesca Desportiva - 100 - 167 - 1 - 10m, 25m, Mergulho
+Staff - Ze Otavio - 1/1/1970 - 123321 - M - 1/1/2020 - 31/12/2020 - Dirigente - 1 - Alongamento
